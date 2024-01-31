@@ -12,6 +12,6 @@ export const siteConfig = {
   links: {
     twitter: "https://twitter.com/twekaone",
     github: "https://github.com/ekaone",
-    projects: "https://prasetia.me",
+    projects: "/project",
   },
 };
